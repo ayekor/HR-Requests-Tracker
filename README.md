@@ -7,7 +7,7 @@ To effectively manage requests logged by Employees and improve turnaround time
 
 This dashboard provides a consolidated view of HR workload, employee demand patterns, and operational efficiency across time, departments, and request categories.
 
-> link to access live dashboard: https://app.powerbi.com/view?r=eyJrIjoiYzJiOGRhZjgtOGYzOS00NTA4LWE1M2UtMmI2NTY1MzZhMGQ0IiwidCI6ImQ5NDZmYzkzLWFmNzAtNGU4Yy1hYmRjLTZlOWFhNDQxYmUwZSIsImMiOjF9
+> link to access live dashboard: https://app.powerbi.com/view?r=eyJrIjoiYTQxMzRmMWYtNTNkMC00NzA1LWFkYzEtN2Y4YjlhNTA3YTdhIiwidCI6ImQ5NDZmYzkzLWFmNzAtNGU4Yy1hYmRjLTZlOWFhNDQxYmUwZSIsImMiOjF9
 
 > link to google form to accept requests: https://docs.google.com/forms/d/e/1FAIpQLSeOhDA5YWKqlya1OkjQWZEtD5nkhjGjfl6o226q6_LVGugPPw/viewform
 
